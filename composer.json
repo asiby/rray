@@ -1,0 +1,16 @@
+{
+    "name": "asiby/rray",
+    "description": "An array manipulation library",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^8"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Abdoulaye Siby",
+            "email": "maestro@abdoulaye.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
